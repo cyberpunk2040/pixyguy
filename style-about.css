@@ -60,11 +60,46 @@
 .about{
     text-align: center;
 }
-.profile img{
-    height:250px;
-    width:250px
+.profile  img{
+    height: 150px;
+    width: 150px;
 }
-.skill-row img{
-    height:250px;
-    width:250px
+
+.profile h2{
+    color: #fff;
+    font-weight: bold;
+}
+.skills h1{
+    color: #fff;
+    /* font-weight: bold; */
+}
+.contact-me h2{
+    color: #fff;
+}
+/* .skill-row h3{
+    color: #fff; */
+}
+.middle-container img{
+    padding: 20px;
+}
+.skill-row img {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+.middle-container p{
+    color: #fff;
+    padding: 10px;
+}
+.profile {
+    padding: 20px;
+    font-size: large;
+}
+.profile img {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+.skills h1{
+    padding: 20px;
 }
