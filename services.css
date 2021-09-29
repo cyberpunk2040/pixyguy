@@ -3,6 +3,11 @@
     color: #fff;
 }
 
+body { height:101%; }
+html {
+    overflow-y: scroll;
+}
+
 .mainheader {
     width: 100%;
     height: 100px;
@@ -40,8 +45,9 @@
 .mainheader nav {
     width: 500px;
     display: flex;
-    justify-content: space-around;
-    align-items: left;
+    justify-content: flex-end;
+    margin-left: 30px;
+    margin-right: 50px;
 }
 
 .mainheader nav a {
@@ -76,7 +82,6 @@
 }
 
 .fa-sign-in-alt {
-    padding-right: 20px;
-    height: 80%;
-    width: 80%;
+    display: inline;
+    margin-right: 10px;
 }
