@@ -75,13 +75,21 @@ html {
     text-align: center;
     color: #32373b;
 }
+.line p{
+    font-weight: bolder;
+}
 
 .line img {
-    height: 50%;
-    width: 50%;
+    height: 20%;
+    width: 20%;
+    padding-bottom: 10px;
+    padding-top: -15px;
 }
 
 .fa-sign-in-alt {
     display: inline;
     margin-right: 10px;
+}
+.left-card{
+    align-items: center flex-end;
 }
