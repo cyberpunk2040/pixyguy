@@ -131,3 +131,12 @@ padding: 20px;
     flex: 1 1 auto;
     padding: 0rem 0rem;
 }
+.image-sale img {
+    padding: 20px;
+}
+.image-sale p{
+    text-align: end;
+}
+.row{
+    padding: 50px;
+}
